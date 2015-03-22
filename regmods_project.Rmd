@@ -2,7 +2,7 @@
 title: "regmods_project"
 author: "Georges Bodiong"
 date: "Friday, March 20, 2015"
-output: pdf_document
+output: html_document
 ---
 
 ## Context
